@@ -8,16 +8,65 @@
                 "type": "link",
                 "addDate": 1718526687700,
                 "title": "个人博客网站",
-                "icon": "https://logo.clearbit.com/www.google.com",
+                "icon": "https://chencoding.top:8090/_media/logo.png",
                 "url": "https://chencoding.top/"
             },
             {
                 "type": "link",
                 "addDate": 1718526707006,
                 "title": "优秀的开源项目",
-                "icon": "https://logo.clearbit.com/x.com",
+                "icon": "https://chencoding.top:8090/_media/logo.png",
                 "url": "https://chencoding.top:8090"
+            },
+            {
+                "type": "folder",
+                "addDate": 1718526865665,
+                "title": "编程网站",
+                "children": [
+                    {
+                        "type": "link",
+                        "addDate": 1718526707006,
+                        "title": "CSDN",
+                        "icon": "https://img-home.csdnimg.cn/images/20201124032511.png",
+                        "url": "https://www.csdn.net/"
+                    },
+                    {
+                        "type": "link",
+                        "addDate": 1718526707006,
+                        "title": "掘金",
+                        "icon": "https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg",
+                        "url": "https://juejin.cn/"
+                    },
+                    {
+                        "type": "link",
+                        "addDate": 1718526707006,
+                        "title": "博客园",
+                        "icon": "https://www.cnblogs.com/images/logo.svg?v=2SMrXdIvlZwVoB1akyXm38WIKuTHVqvGD0CweV-B6cY",
+                        "url": "https://www.cnblogs.com/"
+                    }
+                ]
+            },
+            {
+                "type": "folder",
+                "addDate": 1718526865665,
+                "title": "娱乐网站",
+                "children": [
+                    {
+                        "type": "link",
+                        "addDate": 1718526707006,
+                        "title": "哔哩哔哩",
+                        "icon": "https://img-home.csdnimg.cn/images/20201124032511.png",
+                        "url": "https://www.bilibili.com/"
+                    },
+                    {
+                        "type": "link",
+                        "addDate": 1718526707006,
+                        "title": "抖音",
+                        "icon": "https://p3-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/logo-horizontal-small.svg",
+                        "url": "https://www.douyin.com/"
+                    }
+                ]
             }
         ]
     }
-] 
+]            
